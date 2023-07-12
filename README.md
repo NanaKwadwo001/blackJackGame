@@ -1,2 +1,2 @@
 # blackJackGame
- A BackJack Game WI
+ Building Card game with Javascript
